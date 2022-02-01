@@ -1,0 +1,119 @@
+body{
+    background-color: whitesmoke ;
+}
+h1.jai{
+    text-align: center;
+    font-size: 46px;
+}
+
+p.street{
+    font-size:29px;
+}
+p.pariah{
+    font-size:20px;
+}
+<!-- comment9-->
+p.shih{
+    font-size:29px;
+}
+p.shihtsu{
+    font-size:20px;
+}
+p.shiht{
+    font-size:20px;
+}
+p.shh{
+    font-size:20px;
+}
+<!-- comment-->
+
+h1.rot{
+    font-size:30px;
+}
+p.rote{
+    font-size:20px;
+}
+p.rott{
+    font-size:20px;
+}
+table{
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+th ,tr{
+    border :10px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+<!-- comment-->
+h1.k{
+    font-size:29px;
+}
+p.great{
+    font-size:20px;
+}
+table{
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td , th{
+    border :10px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+
+}
+<!--jai-->
+h1.jj{
+    font-size: 30px;
+}
+p.ll{
+    font-size: 20px;
+}
+table.b{
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td ,th{
+    border :10px solid #dddddd;
+    text-align: left;
+    padding: 8px;}
+<!-- pug-->
+p.pug{
+    font-size: 20px;
+}
+p.pu{
+    font-size: 20px;
+}
+<!-- bnea-->
+p.be{
+    font-size:60px;
+}
+<!-- german-->
+h1.german{
+    font-size: 30px;
+}
+p.ger{
+    font-size:20px;
+}
+<!-- golden-->
+h1.gol{
+    font-size: 30px;
+}
+p.go{
+    font-size:20px;
+}
+<!-- labr-->
+h1.lab{
+    font-size:30px;
+}
+p.labra{
+    font-size:20px;
+}
+h2{
+    font-size: 27px;
+    text-align:center;
+    color:rgb(251, 182, 79);
+}
